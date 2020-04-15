@@ -1,0 +1,13 @@
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\obj\Debug\netcoreapp3.1\ResponsiPemrograman2884.csprojAssemblyReference.cache
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\obj\Debug\netcoreapp3.1\ResponsiPemrograman2884.csproj.CoreCompileInputs.cache
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\obj\Debug\netcoreapp3.1\ResponsiPemrograman2884.AssemblyInfoInputs.cache
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\obj\Debug\netcoreapp3.1\ResponsiPemrograman2884.AssemblyInfo.cs
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\bin\Debug\netcoreapp3.1\ResponsiPemrograman2884.exe
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\bin\Debug\netcoreapp3.1\ResponsiPemrograman2884.deps.json
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\bin\Debug\netcoreapp3.1\ResponsiPemrograman2884.runtimeconfig.json
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\bin\Debug\netcoreapp3.1\ResponsiPemrograman2884.runtimeconfig.dev.json
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\bin\Debug\netcoreapp3.1\ResponsiPemrograman2884.dll
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\bin\Debug\netcoreapp3.1\ResponsiPemrograman2884.pdb
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\obj\Debug\netcoreapp3.1\ResponsiPemrograman2884.dll
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\obj\Debug\netcoreapp3.1\ResponsiPemrograman2884.pdb
+D:\19.11.2884\Pemrogramman\ResponsiPemrograman2884\obj\Debug\netcoreapp3.1\ResponsiPemrograman2884.genruntimeconfig.cache
